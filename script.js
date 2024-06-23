@@ -8,7 +8,7 @@ const root = document.getElementById("container");
 const myRoot = ReactDOM.createRoot(root);
 myRoot.render(ismeSabHeadingkoStoreKrlenge);
 
-myRoot.render([heading1,heading2,heading3]);
+// myRoot.render([heading1,heading2,heading3]);
 
 
 
